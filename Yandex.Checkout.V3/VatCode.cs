@@ -55,5 +55,15 @@ public enum VatCode
     /// <summary>
     /// НДС по расчетной ставке 7/107
     /// </summary>
-    Vat107 = 10
+    Vat107 = 10,
+
+    /// <summary>
+    /// НДС по ставке 22%
+    /// </summary>
+    Vat22 = 11,
+
+    /// <summary>
+    /// НДС по расчетной ставке 22/122
+    /// </summary>
+    Vat122 = 12
 }
